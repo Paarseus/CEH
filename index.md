@@ -35,3 +35,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+#۱- مقدمه
+- دوره CEH ورژن ۱۰ 
+- Certified Ethical Hacker: eccouncil.org
+- هکر کلاه سفید و کلاه سیاه
+هکر کسی است که هوشمندانه از ابزار هایش استفاده میکند.
+در این دوره هکر به معنا نفوذگر دیده می شود.
+
+تست نفوذ: PenTest, Pentestration
+برای تمرین از Lab استفاده میکنیم
+Virtual Box یک ماشین مجازی رایگان برای تست سیستم عامل های مختلف
+
